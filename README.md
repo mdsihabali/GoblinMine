@@ -4,6 +4,7 @@
 
 #  Bot for GoblinMine
 
+![start-goblinmine](https://github.com/user-attachments/assets/a4d30be3-0a47-4b29-9666-bb3402a6d97d)
 
 
 # 🔥🔥 Use PYTHON 3.10 - 3.11.5 🔥🔥
