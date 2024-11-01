@@ -1,0 +1,2 @@
+# GoblinMine
+Bot for GoblinMine
